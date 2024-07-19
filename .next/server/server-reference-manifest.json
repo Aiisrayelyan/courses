@@ -1,0 +1,50 @@
+{
+  "node": {
+    "c44af8a7f75989ef2d8ed45159f755773833a35d": {
+      "workers": {
+        "app/courses/add/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CJetbrains%5C%5CFun%5C%5CAida_next%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Ccourse-actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22handleUpdate%22%2C%22%24%24ACTION_0%22%2C%22handleAdd%22%5D%5D%5D&__client_imported__=!",
+        "app/courses/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CJetbrains%5C%5CFun%5C%5CAida_next%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Ccourse-actions.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22handleAdd%22%5D%5D%5D&__client_imported__=!",
+        "app/courses/edit/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CJetbrains%5C%5CFun%5C%5CAida_next%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Ccourse-actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22handleUpdate%22%2C%22%24%24ACTION_0%22%2C%22handleAdd%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/courses/add/page": "rsc",
+        "app/courses/page": "rsc",
+        "app/courses/edit/[id]/page": "rsc"
+      }
+    },
+    "fe8fcd01cc1afd82b389f5fc00773677541c6330": {
+      "workers": {
+        "app/courses/add/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CJetbrains%5C%5CFun%5C%5CAida_next%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Ccourse-actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22handleUpdate%22%2C%22%24%24ACTION_0%22%2C%22handleAdd%22%5D%5D%5D&__client_imported__=!",
+        "app/courses/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CJetbrains%5C%5CFun%5C%5CAida_next%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Ccourse-actions.ts%22%2C%5B%22%24%24ACTION_0%22%2C%22handleAdd%22%5D%5D%5D&__client_imported__=!",
+        "app/courses/edit/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CJetbrains%5C%5CFun%5C%5CAida_next%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Ccourse-actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22handleUpdate%22%2C%22%24%24ACTION_0%22%2C%22handleAdd%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/courses/add/page": "rsc",
+        "app/courses/page": "rsc",
+        "app/courses/edit/[id]/page": "rsc"
+      }
+    },
+    "5d7062489c9096d0c295e2513a1b3bebb54d08e3": {
+      "workers": {
+        "app/courses/add/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CJetbrains%5C%5CFun%5C%5CAida_next%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Ccourse-actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22handleUpdate%22%2C%22%24%24ACTION_0%22%2C%22handleAdd%22%5D%5D%5D&__client_imported__=!",
+        "app/courses/edit/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CJetbrains%5C%5CFun%5C%5CAida_next%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Ccourse-actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22handleUpdate%22%2C%22%24%24ACTION_0%22%2C%22handleAdd%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/courses/add/page": "rsc",
+        "app/courses/edit/[id]/page": "rsc"
+      }
+    },
+    "9d8efb06454d621da17628b316162aa1d622966e": {
+      "workers": {
+        "app/courses/add/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CJetbrains%5C%5CFun%5C%5CAida_next%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Ccourse-actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22handleUpdate%22%2C%22%24%24ACTION_0%22%2C%22handleAdd%22%5D%5D%5D&__client_imported__=!",
+        "app/courses/edit/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CJetbrains%5C%5CFun%5C%5CAida_next%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Ccourse-actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22handleUpdate%22%2C%22%24%24ACTION_0%22%2C%22handleAdd%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/courses/add/page": "rsc",
+        "app/courses/edit/[id]/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "EyxuPgchSpra+qSP5J9nvO5lsKr2uadS4apUKxPwHgc="
+}
